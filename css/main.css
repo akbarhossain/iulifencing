@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(238, 246, 244);
+}
+
+h1 {
+  color: rgb(55,55,55);
+  font-size: 3em;
+  margin-block-start: 0.25em;
+  margin-block-end: 0.25em;
+}
+
+.center {
+  text-align: center;
+}
+
+#badge {
+  display: block;
+  margin: auto;
+}
+
+#social {
+  padding: 25px;
+  display: inline-block;
+  max-height: 100px;
+}
