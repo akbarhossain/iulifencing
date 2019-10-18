@@ -17,6 +17,7 @@ h1 {
   display: block;
   margin: auto;
   max-height: 1000px;
+  padding-bottom: 50px;
 }
 
 #social {
