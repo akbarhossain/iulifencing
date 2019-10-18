@@ -16,6 +16,7 @@ h1 {
 #badge {
   display: block;
   margin: auto;
+  max-width: 75%
 }
 
 #social {
