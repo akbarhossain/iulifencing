@@ -17,6 +17,7 @@ h1 {
   display: block;
   margin: auto;
   max-height: 1000px;
+  max-wdith: 95%;
   padding-bottom: 50px;
 }
 
