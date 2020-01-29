@@ -5,12 +5,42 @@ body {
 h1 {
   color: rgb(55,55,55);
   font-size: 3em;
+  font-family: 'Handlee', cursive;
   margin-block-start: 0.25em;
   margin-block-end: 0.25em;
 }
 
 .center {
   text-align: center;
+}
+
+.menu {
+  padding-bottom: 30px;
+}
+
+.menu-item {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.page {
+  background: black;
+  text-align: center;
+}
+
+.banner {
+  padding-top:5%;
+  padding-bottom:5%;
+  height: 400px;
+}
+
+a.menu-item:hover {
+  opacity: 0.7;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(55,55,55);
 }
 
 #badge {

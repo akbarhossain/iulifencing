@@ -6,12 +6,14 @@
 	<link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
-<h1 class="center">IULI</h1>
+<h1 class="center"><a href="/">IULI</a></h1>
 
 <div class="center menu">
 <a href="my-story" class="menu-item">MY STORY</a> <a href="" class="menu-item">TRAINING</a> <a href="" class="menu-item">WHITGIFT</a>
 </div>
-<a href="http://www.wimbledonfencingclub.org.uk/training/index.php?article=45._Epee_Improver_Course.htm"><img id="badge" src="images/Improvers_Course_Oct2019.jpg" alt="Iuli Fencing Badge"></a>
+<div class="page">
+<img id="banner" src="assets/banner.jpg" alt="Iuli Fencing Badge" class="banner">
+</div>
 <div class="center">
 <a href="https://www.instagram.com/iulifencing/"><img id="social" src="images/Instagram.png" alt="Instagram"></a>
 <a href="https://www.facebook.com/iulifencing/"><img id="social" src="images/Facebook.png" alt="Facebook"></a>
